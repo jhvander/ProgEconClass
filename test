@@ -1,0 +1,8 @@
+Print('Hello World')
+
+
+def squared(x): 
+  x_sq = x**2
+  return x_sq
+
+
